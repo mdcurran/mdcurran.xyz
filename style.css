@@ -8,6 +8,8 @@ html {
 }
 
 body {
+  background-color: #1F1B24;
+  color: #FFFFFF;
   display: table-cell;
   vertical-align: middle;
 }
