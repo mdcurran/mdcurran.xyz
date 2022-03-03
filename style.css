@@ -11,5 +11,6 @@ body {
   background-color: #1F1B24;
   color: #FFFFFF;
   display: table-cell;
+  padding: 6%;
   vertical-align: middle;
 }
